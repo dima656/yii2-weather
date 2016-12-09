@@ -32,7 +32,5 @@ tests/_support/_generated
 
 # from forum
 
-
-/web/.htaccess
 /config/db.php
 /config/params.php

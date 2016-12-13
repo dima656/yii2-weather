@@ -33,4 +33,4 @@ tests/_support/_generated
 # from forum
 
 /config/db.php
-/config/params.php
+
